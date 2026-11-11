@@ -1,5 +1,7 @@
 # VISXA
 
+[UK visa beta tester invitation — translated into additional languages](https://github.com/VISXAhq/.github/blob/main/beta-testers/i18n/README.md) · [Apply to the private beta waitlist](https://visxa.com/en)
+
 VISXA, Inc. is an independent Delaware company developing AI-powered tools that help applicants organize information and supporting documents for visa applications.
 
 ## What is available today?
