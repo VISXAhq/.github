@@ -1,5 +1,9 @@
 # VISXA UK Standard Visitor visa — Beta tester invitation
 
+## Translations
+
+[Read this beta invitation in French, Russian, Chinese (Mandarin), Urdu, Spanish, Afrikaans, Swahili, Turkish, German, Portuguese and Nigerian Pidgin](https://github.com/VISXAhq/.github/blob/main/beta-testers/i18n/README.md). These are GitHub information pages, not additional live product languages. Translations are drafts pending native-speaker review.
+
 VISXA, Inc. is inviting volunteers to help improve its English- and Arabic-language UK Standard Visitor visa application-preparation experience. This early-access programme is invitation-only, beginning with particular interest in people in Egypt and welcoming interest from other countries.
 
 If selected for an agreed beta participation, your VISXA application-preparation service fee will be waived. Official UK government visa fees, application centre charges and other third-party costs are not waived.
