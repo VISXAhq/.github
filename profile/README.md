@@ -4,6 +4,12 @@
 
 VISXA, Inc. is an independent Delaware company developing AI-powered tools that help applicants organize information and supporting documents for visa applications.
 
+## Official company press release — 14 November 2026
+
+[VISXA opens UK visitor visa preparation beta in English and Arabic](https://github.com/VISXAhq/.github/blob/main/press/2026-11-14-uk-visitor-visa-beta-launch.md) · [Canonical announcement on visxa.com](https://visxa.com/en/press/uk-beta-launch).
+
+This is a VISXA-issued announcement, not independent media coverage. For current beta instructions and availability, consult the official website.
+
 ## What is available today?
 
 The initial service focuses on UK Standard Visitor visa preparation, beginning with Egypt, in English and Arabic. The private beta is by invitation. Visit the [official VISXA website](https://visxa.com) for current availability and the waitlist.
