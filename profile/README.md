@@ -39,3 +39,11 @@ The relevant government authority makes visa decisions. VISXA helps applicants p
 VISXA شركة مستقلة في ولاية ديلاوير بالولايات المتحدة، تطوّر أدوات بالذكاء الاصطناعي لمساعدة المتقدمين على تنظيم بيانات طلبات التأشيرات ومستنداتها. تركز المرحلة الأولى على تجهيز طلبات تأشيرة الزيارة البريطانية، بدءًا من مصر، بالعربية والإنجليزية. المرحلة التجريبية الخاصة متاحة بالدعوة، وتتخذ الجهة الحكومية المختصة قرار التأشيرة.
 
 [Official links](https://linktr.ee/VISXA) · Founder [Mohamed Aboshanab](https://github.com/maboshanab)
+
+## VISXA for Good | VISXA من أجل الخير
+
+[VISXA for Good](https://visxa.org/) is a distinct social-impact initiative from VISXA, Inc., exploring responsible technology and more accessible multilingual mobility information. Its informational website is available in [English](https://visxa.org/en/) and [Arabic](https://visxa.org/ar/); programmes and tools remain in development.
+
+Technology for Humanity. Mobility for Everyone.
+
+[VISXA من أجل الخير](https://visxa.org/ar/) مبادرة ذات أثر اجتماعي من VISXA, Inc. تستكشف استخدام التكنولوجيا بمسؤولية وتيسير الوصول إلى معلومات التنقّل بلغات متعددة. الموقع التعريفي متاح بالعربية والإنجليزية، بينما تظل البرامج والأدوات قيد التطوير.
