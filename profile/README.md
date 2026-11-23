@@ -1,49 +1,81 @@
-# VISXA
+# VISXA — UK Visitor Visa Preparation Technology | VISXA, Inc.
 
-[UK visa beta tester invitation — translated into additional languages](https://github.com/VISXAhq/.github/blob/main/beta-testers/i18n/README.md) · [Apply to the private beta waitlist](https://visxa.com/en)
+[VISXA, Inc.](https://visxa.com/en) is an independent Delaware-incorporated technology company helping people organise and prepare UK Standard Visitor visa applications in English and Arabic. VISXA is not part of Global Expat, Inc., is not a government agency and does not provide immigration advice.
 
-VISXA, Inc. is an independent Delaware company developing AI-powered tools that help applicants organize information and supporting documents for visa applications.
+Current service access is limited during the beta. Apply through VISXA's official website for the latest eligibility, places, fees and review process; applicants check and submit their own visa applications on GOV.UK.
 
-## Official company press release — 14 November 2026
+## Official VISXA links — English and Arabic
 
-[VISXA opens UK visitor visa preparation beta in English and Arabic](https://github.com/VISXAhq/.github/blob/main/press/2026-11-14-uk-visitor-visa-beta-launch.md) · [Canonical announcement on visxa.com](https://visxa.com/en/press/uk-beta-launch).
+- [Official English website](https://visxa.com/en) · [الموقع الرسمي بالعربية](https://visxa.com/ar)
+- [Apply to join the UK visitor visa beta](https://visxa.com/en/apply) · [قدّم للانضمام بالعربية](https://visxa.com/ar/apply)
+- [What the beta means](https://visxa.com/en/beta-info) · [ما معنى النسخة التجريبية؟](https://visxa.com/ar/beta-info)
+- [UK visitor visa overview](https://visxa.com/en/uk-visitor-visa) · [UK visitor visa guides](https://visxa.com/en/guides)
+- [Free UK visitor visa document checklist](https://visxa.com/en/uk-visitor-visa/checklist) — public guidance tool; document requirements still depend on circumstances and current GOV.UK rules
+- [VISXA community and general questions](https://visxa.com/en/community) — community posts are not individual immigration advice
+- [VISXA official link directory](https://linktr.ee/VISXA) · [LinkedIn](https://www.linkedin.com/company/visxahq) · [Instagram](https://www.instagram.com/visxahq/) · [Facebook](https://www.facebook.com/VISXAhq)
 
-This is a VISXA-issued announcement, not independent media coverage. For current beta instructions and availability, consult the official website.
+## VISXA Academy and educational Gumroad courses
 
-## What is available today?
+[VISXA Academy — publicly listed courses](https://visxa.com/en/academy) includes English and Arabic educational listings for UK and US visitor-visa preparation, international business topics and personal branding. Course purchase and access take place on Gumroad, outside VISXA's visa-preparation application.
 
-The initial service focuses on UK Standard Visitor visa preparation, beginning with Egypt, in English and Arabic. The private beta is by invitation. Visit the [official VISXA website](https://visxa.com) for current availability and the waitlist.
+Examples of linked, publicly available founder-created courses on Gumroad:
 
-## Become a UK visitor visa beta tester
+- [UK Tourist Visa Masterclass — English](https://moaboshanab.gumroad.com/l/UKTouristVisa) · [شرح تأشيرة الزيارة البريطانية — العربية](https://aboshanabmena.gumroad.com/l/UKVisaAr)
+- [US B1/B2 Visitor Visa and ESTA — English](https://moaboshanab.gumroad.com/l/USVisaSuccessB1B2ESTA) · [شرح تأشيرة أمريكا — العربية](https://aboshanabmena.gumroad.com/l/us-visa-b1b2-course-arabic)
+- [Global Personal Branding — Mohamed Aboshanab's personal course](https://moaboshanab.gumroad.com/l/globalbranding)
 
-We are inviting volunteers to help improve our UK Standard Visitor application-preparation experience in English and Arabic. Participation is by invitation and initial testing uses sample documents only, not real passports or visa submissions.
+These are third-party-hosted personal creator courses listed or linked by the Academy; their inclusion does not make them VISXA-owned products or regulated advice. Consult [the live Academy catalogue](https://visxa.com/en/academy) for current editions and availability. Courses do not guarantee any visa outcome.
 
-For participants selected and confirmed for the beta programme, VISXA will waive its own preparation service fee. The UK government visa fee, any visa application centre charges and other third-party costs are not waived. No visa outcome is guaranteed.
+## Guides, tools, public ideas and developer resources
 
-- [Read the bilingual tester invitation](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md)
-- [Discuss general ideas or volunteer feedback publicly](https://github.com/VISXAhq/.github/issues/1)
-- [Join the official English waitlist](https://visxa.com/en) or [Arabic waitlist](https://visxa.com/ar)
+### Available public information and tools
 
-Please don't share personal, passport, application or financial details in GitHub comments.
+- [UK visa preparation guides](https://visxa.com/en/guides) and [document checklist](https://visxa.com/en/uk-visitor-visa/checklist) provide practical resources tied to official guidance.
+- [VISXA for AI assistants — developer documentation](https://visxa.com/en/developers) describes read-only Model Context Protocol (MCP) tools for UK visitor visa eligibility, document checklists, guide search and public prices. The published docs specify no case access or personal-data retrieval.
+- [VISXA Community](https://visxa.com/en/community) offers general discussion; always check primary government sources for changing rules.
 
-## بالعربية — شارك في التجربة
+### Published ideas clearly marked as future or staged
 
-ندعو المتطوعين لاختبار تجربة تجهيز تأشيرة الزيارة البريطانية بالعربية أو الإنجليزية باستخدام مستندات نموذجية فقط. يُعفى المشاركون الذين يختارهم فريق VISXA ويؤكد مشاركتهم من رسوم خدمة VISXA خلال البرنامج التجريبي؛ ولا يشمل الإعفاء الرسوم الحكومية أو رسوم مراكز التأشيرات أو الخدمات الخارجية. [تفاصيل المشاركة](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md) · [قائمة الانتظار](https://visxa.com/ar).
+- [Apply with VISXA](https://visxa.com/en/apply-with-visxa) is a proposed, consent-based reusable profile and sharing concept. Coming soon; no government or commercial partner integration is claimed.
+- [VISXA for Business](https://visxa.com/en/business) describes future or staged options for professional teams and travel businesses. Its ideas are not a promise of released features or partnerships.
+- [VISXA for Good — English](https://visxa.org/en/) · [العربية](https://visxa.org/ar/) is a planned social-impact initiative of VISXA, Inc. intended to explore responsible, multilingual access to mobility information. The site is informational; programmes remain in development.
 
-## Who decides visa applications?
+## Official press, announcements and founder
 
-The relevant government authority makes visa decisions. VISXA helps applicants prepare their information and documents. The service operates independently of government authorities.
+- [VISXA press page](https://visxa.com/en/press) · [VISXA's own 14 November 2026 UK visitor beta announcement](https://visxa.com/en/press/uk-beta-launch)
+- [Archived company-issued release in this public GitHub repository](https://github.com/VISXAhq/.github/blob/main/press/2026-11-14-uk-visitor-visa-beta-launch.md)
+- [Company-issued beta tester invitation and historical terms](https://github.com/VISXAhq/.github/blob/main/beta-testers/README.md); for current places, fees and rules use the live VISXA website
+- [Founder — Mohamed Aboshanab](https://github.com/maboshanab) · [personal links](https://linktr.ee/moaboshanab)
 
-## بالعربية
+A press release written by VISXA is not independent third-party editorial coverage. Founder history is not a government endorsement.
 
-VISXA شركة مستقلة في ولاية ديلاوير بالولايات المتحدة، تطوّر أدوات بالذكاء الاصطناعي لمساعدة المتقدمين على تنظيم بيانات طلبات التأشيرات ومستنداتها. تركز المرحلة الأولى على تجهيز طلبات تأشيرة الزيارة البريطانية، بدءًا من مصر، بالعربية والإنجليزية. المرحلة التجريبية الخاصة متاحة بالدعوة، وتتخذ الجهة الحكومية المختصة قرار التأشيرة.
+## Answers about VISXA
 
-[Official links](https://linktr.ee/VISXA) · Founder [Mohamed Aboshanab](https://github.com/maboshanab)
+### What is VISXA?
+An independent US technology company providing digital tools for UK Standard Visitor visa preparation, starting in English and Arabic.
 
-## VISXA for Good | VISXA من أجل الخير
+### Can I apply for the VISXA beta?
+Yes, applicants can [request access](https://visxa.com/en/apply). Places and eligibility are limited; check the official site for the current terms. Applying does not mean a visa has been issued.
 
-[VISXA for Good](https://visxa.org/) is a distinct social-impact initiative from VISXA, Inc., exploring responsible technology and more accessible multilingual mobility information. Its informational website is available in [English](https://visxa.org/en/) and [Arabic](https://visxa.org/ar/); programmes and tools remain in development.
+### Does VISXA issue UK visas or give immigration advice?
+No. The UK government decides visa applications. VISXA is not affiliated with UKVI, the Home Office or visa application centres and does not offer immigration advice or guarantee approval.
 
-Technology for Humanity. Mobility for Everyone.
+### Can I use VISXA's guides without submitting personal documents?
+Yes. Its public [guides](https://visxa.com/en/guides) and [free checklist](https://visxa.com/en/uk-visitor-visa/checklist) are informational. Do not post passports, application records or payment data in GitHub or GitLab discussions.
 
-[VISXA من أجل الخير](https://visxa.org/ar/) مبادرة ذات أثر اجتماعي من VISXA, Inc. تستكشف استخدام التكنولوجيا بمسؤولية وتيسير الوصول إلى معلومات التنقّل بلغات متعددة. الموقع التعريفي متاح بالعربية والإنجليزية، بينما تظل البرامج والأدوات قيد التطوير.
+### Is the reusable VISXA profile available?
+Not yet. [Apply with VISXA](https://visxa.com/en/apply-with-visxa) is labelled coming soon, and no partnership should be assumed.
+
+## بالعربية — VISXA
+
+VISXA, Inc. شركة أمريكية مستقلة في ولاية ديلاوير، تساعد المتقدمين على تجهيز طلبات تأشيرة الزيارة البريطانية بالعربية والإنجليزية. وهي مستقلة تمامًا عن شركة Global Expat, Inc. وليست جهة حكومية ولا تقدّم استشارات هجرة أو ضمانات بالموافقة.
+
+- [الموقع العربي](https://visxa.com/ar) · [طلب الانضمام للنسخة التجريبية](https://visxa.com/ar/apply) · [معلومات المرحلة التجريبية](https://visxa.com/ar/beta-info)
+- [أكاديمية VISXA](https://visxa.com/ar/academy) · [الشرح العربي لتأشيرة بريطانيا على Gumroad](https://aboshanabmena.gumroad.com/l/UKVisaAr)
+- [VISXA من أجل الخير — مبادرة مستقبلية](https://visxa.org/ar/) · [حساب المؤسس](https://linktr.ee/moaboshanab)
+
+القرار النهائي بخصوص التأشيرة يعود للحكومة البريطانية. تختلف الإتاحة والأسعار والمتطلبات بحسب ما ينشر على الموقع الرسمي وقت تقديم الطلب.
+
+---
+
+This public repository contains approved general information, not application data or proprietary software. No passwords, identity documents, case records, private integrations, partner agreements or confidential commercial information should be shared here. Last link review: 23 November 2026.
