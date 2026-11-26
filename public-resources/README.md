@@ -15,6 +15,10 @@ Original introductory worksheets, public documentation and educational reference
 - [VISXA for Good: accessible mobility information](visxa-for-good/README.md) — What can accessible public mobility information look like?
 - [Generic visa research data template (no applicant data)](visa-data-schema/README.md) — What fields are useful in a public visa information catalogue?
 
+## Multilingual resources
+
+- [Read the localized starter guides in 26 languages](i18n/README.md). These are educational translations, not a claim of service availability in each language.
+
 ## Public references
 
 - [Official and WordPress link directory](PUBLIC_LINKS.md)

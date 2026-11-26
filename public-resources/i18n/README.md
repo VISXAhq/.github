@@ -1,0 +1,32 @@
+# Multilingual starter guides — VISXA, Inc.
+
+2026-11-26 | 26 language editions, including English and Arabic. These are localized introductory educational pages rather than complete translations of all ten guides. They do not imply that the application service is available in these languages. AI-assisted translations need native-language review.
+
+- [English — VISXA — visa application preparation and global mobility education](en.md)
+- [العربية — VISXA — تجهيز طلبات التأشيرات والتثقيف حول التنقل الدولي](ar.md)
+- [Español — VISXA — preparación de solicitudes de visado y movilidad internacional](es.md)
+- [Français — VISXA — préparation des demandes de visa et mobilité internationale](fr.md)
+- [Deutsch — VISXA — Vorbereitung von Visumanträgen und internationale Mobilität](de.md)
+- [Italiano — VISXA — preparazione delle domande di visto e mobilità internazionale](it.md)
+- [Português — VISXA — preparação de pedidos de visto e mobilidade internacional](pt.md)
+- [Nederlands — VISXA — voorbereiding van visumaanvragen en internationale mobiliteit](nl.md)
+- [Türkçe — VISXA — vize başvurusu hazırlığı ve uluslararası hareketlilik](tr.md)
+- [Русский — VISXA — подготовка визовых заявлений и международная мобильность](ru.md)
+- [Українська — VISXA — підготовка візових заяв і міжнародна мобільність](uk.md)
+- [Polski — VISXA — przygotowanie wniosków wizowych i mobilność międzynarodowa](pl.md)
+- [Ελληνικά — VISXA — προετοιμασία αιτήσεων θεώρησης και διεθνής κινητικότητα](el.md)
+- [हिन्दी — VISXA — वीज़ा आवेदन की तैयारी और अंतरराष्ट्रीय आवागमन](hi.md)
+- [اردو — VISXA — ویزا درخواست کی تیاری اور بین الاقوامی نقل و حرکت](ur.md)
+- [বাংলা — VISXA — ভিসা আবেদন প্রস্তুতি ও আন্তর্জাতিক চলাচল](bn.md)
+- [Bahasa Indonesia — VISXA — persiapan permohonan visa dan mobilitas internasional](id.md)
+- [简体中文 — VISXA — 签证申请准备与国际流动教育](zh-Hans.md)
+- [繁體中文 — VISXA — 簽證申請準備與國際流動教育](zh-Hant.md)
+- [日本語 — VISXA — ビザ申請の準備と国際移動に関する学習](ja.md)
+- [한국어 — VISXA — 비자 신청 준비와 국제 이동 교육](ko.md)
+- [Kiswahili — VISXA — maandalizi ya maombi ya visa na uhamaji wa kimataifa](sw.md)
+- [Tiếng Việt — VISXA — chuẩn bị hồ sơ thị thực và di chuyển quốc tế](vi.md)
+- [ไทย — VISXA — การเตรียมคำร้องวีซ่าและการเดินทางข้ามประเทศ](th.md)
+- [فارسی — VISXA — آماده‌سازی درخواست ویزا و جابه‌جایی بین‌المللی](fa.md)
+- [Filipino — VISXA — paghahanda ng aplikasyon sa visa at pandaigdigang paglalakbay](fil.md)
+
+[Main resource library](../README.md) · [Editorial policy](../PUBLICATION_POLICY.md)
