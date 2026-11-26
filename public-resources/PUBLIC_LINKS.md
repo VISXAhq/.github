@@ -21,3 +21,10 @@ Published 2026-11-26. Links are grouped by their subject and editorial purpose. 
 - [GOV.UK visitor document guidance](https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents)
 
 Only published, relevant public resources are included. No staging, private review, draft, payment, admin, or confidential links belong here.
+
+## Published multilingual learning-library articles on WordPress
+
+The following founder-authored articles introduce the independent public educational libraries, including this one. The official company website remains the source for current services.
+
+- [English](https://mohamedaboshanabcom.wordpress.com/2026/11/26/public-learning-libraries-github-gitlab-26-languages/)
+- [العربية](https://aboshanabmena.wordpress.com/2026/11/27/public-learning-libraries-github-gitlab-arabic/)
