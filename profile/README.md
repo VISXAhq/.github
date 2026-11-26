@@ -76,6 +76,12 @@ VISXA, Inc. شركة أمريكية مستقلة في ولاية ديلاوير�
 
 القرار النهائي بخصوص التأشيرة يعود للحكومة البريطانية. تختلف الإتاحة والأسعار والمتطلبات بحسب ما ينشر على الموقع الرسمي وقت تقديم الطلب.
 
+## Public resource library and WordPress publications
+
+Explore the [public resource library](../public-resources/README.md) for ten practical topic guides, English and Arabic summaries, and [public websites and WordPress references](../public-resources/PUBLIC_LINKS.md). These are educational resources; the official website remains the source for current services and availability.
+
+- [VISXA Ideas WordPress](https://visxaofficial.wordpress.com/)
+
 ---
 
 This public repository contains approved general information, not application data or proprietary software. No passwords, identity documents, case records, private integrations, partner agreements or confidential commercial information should be shared here. Last link review: 23 November 2026.
