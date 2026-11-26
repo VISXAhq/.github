@@ -30,6 +30,8 @@ These are third-party-hosted personal creator courses listed or linked by the Ac
 
 ### Available public information and tools
 
+- [Designing a read-only MCP interface for bilingual visa preparation](https://dev.to/visxa/designing-a-read-only-mcp-interface-for-bilingual-visa-preparation-28ci) — VISXA’s DEV engineering note on English and Arabic retrieval and the boundary between public resources and private cases.
+
 - [UK visa preparation guides](https://visxa.com/en/guides) and [document checklist](https://visxa.com/en/uk-visitor-visa/checklist) provide practical resources tied to official guidance.
 - [VISXA for AI assistants — developer documentation](https://visxa.com/en/developers) describes read-only Model Context Protocol (MCP) tools for UK visitor visa eligibility, document checklists, guide search and public prices. The published docs specify no case access or personal-data retrieval.
 - [VISXA Community](https://visxa.com/en/community) offers general discussion; always check primary government sources for changing rules.
